@@ -1,0 +1,17 @@
+GET http://localhost:3000/transactions?search=women
+
+###
+GET http://localhost:3000/statistics?month=05
+
+###
+
+GET http://localhost:3000/bar-chart?month=05
+
+###
+
+GET http://localhost:3000/pie-chart?month=01
+
+###
+GET http://localhost:3000/combined-data?month=01
+
+###
